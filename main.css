@@ -18,7 +18,6 @@ float: left;
 }
 
 #header{
-    
      height: 20%;
      background: black;
      padding-bottom: 3%;
@@ -33,24 +32,39 @@ float: left;
     background: black;
     width:100%;
     bottom: 0px;
-    padding-bottom: 100px;
-
-
+    padding-bottom: 200px;
+    text-align: center;
 }
 
-footer p {
+div.f {
+    text-align: center;
+}
+
+p.footer{
     font-family: 'Montserrat', sans-serif;
-    font-size: 100%
-}
-
-footer li {
-    line-height: 1.4em;
-    font-size: 0.9em;
-}
-
-copyright p {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 50%;
+    font-size: 90%;
     color: #f9f9f9;
+    float: left;
+    padding-left: 150px;
+    text-align: center;
+    vertical-align: 100px;
+}
 
+
+p.copyright{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60%;
+    color: #f9f9f9;
+    text-align: center;
+    padding-top: 150px;
+}
+
+ul {
+    display: inline;
+    list-style-type: none;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
 }
