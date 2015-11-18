@@ -139,12 +139,11 @@ a.style.backgroundImage="",b!=a.getAttribute("src")&&a.setAttribute("src",b)))}}
 
             
             <div id="topnav">
-
-                <a href="/Home.aspx">Home</a> | 
-            <a href="/About.aspx">About</a> |
-                <a href="/Visit.aspx">Visit</a> |
-                 <a href="/educationandresearch.aspx">Education & Research</a> | 
-            <a href="/Whatson.aspx">What's Up</a>
+   
+                <a href="About.aspx">About</a> |
+                <a href="Visit.aspx">Visit</a> |
+                 <a href="educationandresearch.aspx">Education & Research</a> | 
+            <a href="Whatson.aspx">What's Up</a>
 
 
 
