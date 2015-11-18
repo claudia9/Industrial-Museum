@@ -66,15 +66,14 @@ a.style.backgroundImage="",b!=a.getAttribute("src")&&a.setAttribute("src",b)))}}
 
 
 <%--<head runat="server"> --%>
-    <title></title>
-        <link href="main.css" rel="stylesheet" />
+    <title>Danmarks Industrimuseum</title>
+    <link href="main.css" rel="stylesheet" />
     <asp:ContentPlaceHolder id="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
     <form id="form1" runat="server">
-    <div id="container">
-
+    
 
         <div id="header">
             
@@ -143,26 +142,19 @@ a.style.backgroundImage="",b!=a.getAttribute("src")&&a.setAttribute("src",b)))}}
 
             </div>
 
-        </div>
+  </div>
 
 
-
-
-
-
-
+     
 
         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
         
         </asp:ContentPlaceHolder>
-        <footer>
-<div id="footer">
+        
+      
+        <div id="footer">
 
-
-</div>
-
-        </footer>
-    </div>
+        </div>
     </form>
 </body>
 </html>
