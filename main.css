@@ -10,7 +10,11 @@ float: left;
 }
 
 #container{
-    height:50%;
+    width: 70px;
+    height:100px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+
 }
 
 #header{
@@ -29,5 +33,24 @@ float: left;
     background: black;
     width:100%;
     bottom: 0px;
+    padding-bottom: 100px;
+
+
+}
+
+footer p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%
+}
+
+footer li {
+    line-height: 1.4em;
+    font-size: 0.9em;
+}
+
+copyright p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50%;
+    color: #f9f9f9;
 
 }

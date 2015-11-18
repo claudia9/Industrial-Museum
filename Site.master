@@ -4,7 +4,8 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
- <head data-gwd-animation-mode="proMode"><meta name="GCD" content="YTk3ODQ3ZWZhN2I4NzZmMzBkNTEwYjJlcdf8edabe0cc8b17c74f7ca9037f6f5f"/>
+ <head data-gwd-animation-mode="proMode">
+  <meta name="GCD" content="YTk3ODQ3ZWZhN2I4NzZmMzBkNTEwYjJlcdf8edabe0cc8b17c74f7ca9037f6f5f"/>
   <meta charset="utf-8">
   <meta name="generator" content="Google Web Designer 1.4.2.0915">
   <meta name="template" content="Banner 2.2.4">
@@ -73,11 +74,13 @@ a.style.backgroundImage="",b!=a.getAttribute("src")&&a.setAttribute("src",b)))}}
     <asp:ContentPlaceHolder id="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
+
+
 <body>
     <form id="form1" runat="server">
     
 
-        <div id="header">
+<div id="header">
             
              <gwd-genericad id="gwd-ad">
     <div is="gwd-pagedeck" class="gwd-page-container" id="pagedeck">
@@ -155,6 +158,16 @@ a.style.backgroundImage="",b!=a.getAttribute("src")&&a.setAttribute("src",b)))}}
         
       
         <div id="footer">
+              <ul> <li> <a>SITEMAP</a> </li> </ul>
+                <ul> <li> <a>PRIVACY POLICY</a> </li> </ul>
+                <ul> <li> <a>TERMS AND CONDITIONS</a> </li> </ul>
+                <ul> <li> <a>SPONSORS</a> </li> </ul>
+
+                <i class="fa fa-facebook"></i>
+                <i class="fa fa-youtube"></i>
+                <p class="copyright">
+                   "Website @ 2015 Justin Farrugia, Luke Galea, Claudia Nou. All rights reserved."
+                </p>
 
         </div>
     </form>
