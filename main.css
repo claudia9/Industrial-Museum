@@ -1,0 +1,33 @@
+﻿body {
+
+
+
+}
+
+#topnav{
+float: left;
+
+}
+
+#container{
+    height:50%;
+
+}
+
+#header{
+    
+     height: 20%;
+     background: black;
+     padding-bottom: 3%;
+     padding-top:0%;
+     width:100%;
+
+
+}
+
+#footer{
+    height:30%;
+     background: black;
+          width:100%;
+
+}
