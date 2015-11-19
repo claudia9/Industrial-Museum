@@ -5,13 +5,29 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 
-<<head runat="server">
+<head runat="server">
+
+
+
+
+
+
     <title>Danmarks Industrimuseum</title>
     <link href="css/main.css" rel="stylesheet" />
     <link href="css/normalize.css" rel="stylesheet" />
     <link href="css/normalize.min.css" rel="stylesheet" />
-      <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
+   <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 
     <asp:ContentPlaceHolder id="head" runat="server">
     </asp:ContentPlaceHolder>
@@ -21,100 +37,55 @@
 <body>
     <form id="form1" runat="server">
     
+        
+        <div class="header-container">
+            <header class="wrapper clearfix">
 
-<div id="header">
-            
-              <gwd-genericad id="gwd-ad">
-    <div is="gwd-pagedeck" class="gwd-page-container" id="pagedeck">
-      <div is="gwd-page" id="page1" class="gwd-page-wrapper gwd-page-size gwd-lightbox gwd-div-svqn" data-gwd-width="300px" data-gwd-height="50px">
-        <div class="gwd-page-content gwd-page-size gwd-div-11pc">
-          <img is="gwd-image" source="horsens_industrial_museum_background.png" id="gwd-image_1" class="gwd-img-1urq" style="">
-          <img is="gwd-image" source="cog.png" id="gwd-image_2" class="gwd-img-1s38 gwd-gen-dz05gwdanimation">
+                <h1 class="title">DANMARKS<br>INDUSTRIMUSEUM</h1>
+                <nav>
+                    <ul>
+                        <li><a href="#">home</a></li>
+                        <li><a href="#">about</a></li>
+                        <li><a href="#">visit</a></li>
+                        <li><a href="#">exhibitions</a></li>
+                        <li><a href="#">learn</a></li>
+                    </ul>
+                </nav>
+            </header>
         </div>
-      </div>
-    </div>
-  </gwd-genericad>
-  <script type="text/javascript" id="gwd-init-code">
-    (function() {
-
-      var gwdAd = document.getElementById('gwd-ad');
-      /**
-       * Handles the DOMContentLoaded event. The DOMContentLoaded event is
-       * fired when the document has been completely loaded and parsed.
-       */
-
-      function handleDomContentLoaded(event) {
-        // This is a good place to show a loading or branding image while
-        // the ad loads.
-      }
-
-      /**
-       * Handles the WebComponentsReady event. This event is fired when all
-       * custom elements have been registered and upgraded.
-       */
-      function handleWebComponentsReady(event) {
-
-        // Start the Ad lifecycle.
-        setTimeout(function() {
-          gwdAd.initAd();
-        }, 0);
-      }
-
-      /**
-       * Handles the event that is dispatched after the Ad has been
-       * initialized and before the default page of the Ad is shown.
-       */
-      function handleAdInitialized(event) {
-        // This marks the end of the polite load phase of the Ad. If a
-        // loading image was shown to the user, this is a good place to
-        // remove it.
-      }
-
-      window.addEventListener('DOMContentLoaded',
-        handleDomContentLoaded, false);
-      window.addEventListener('WebComponentsReady',
-        handleWebComponentsReady, false);
-      window.addEventListener('adinitialized',
-        handleAdInitialized, false);
-    })();
-  </script>
-
-            
-            <div id="topnav">
-   
-                <a href="About.aspx">About</a> |
-                <a href="Visit.aspx">Visit</a> |
-                 <a href="educationandresearch.aspx">Education & Research</a> | 
-            <a href="Whatson.aspx">What's Up</a>
-
-
-
-            </div>
-
-  </div>
-
 
      
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+
 
         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+
+
         
         </asp:ContentPlaceHolder>
+               </div>
+                    </div>
         
-      <div id="footer">
+             <div class="footer-container">
+            <footer class="wrapper">
                 <ul>
-                    <li><p class="footer"><a>SITEMAP</a></p></li>
-                    <li><p class="footer"><a>PRIVACY POLICY</a></`p></li>
-                    <li><p class="footer"><a>TERMS AND CONDITIONS</a></p></li>
-                    <li><p class="footer"><a>SPONSORS</a></p></li>
+                    <li><a href="">SITEMAP</a></li>
+                    <li><a href="">PRIVACY POLICY</a></li>
+                    <li><a href="">TERMS AND CONDITIONS</a></li>
+                    <li><a href="">SPONSOR</a></li>
                 </ul>
+                <br>
+                <ul>
+                    <li><p class="icons"><a href="https://www.facebook.com/Danmarks-Industrimuseum-24154769101/?fref=ts"><i class="fa fa-facebook fa-2x"></i></a></p></li>
 
-                <i class="fa fa-facebook"></i>
-                <i class="fa fa-youtube"></i>
-                <p class="copyright">
-                   Website @ 2015 Justin Farrugia, Luke Galea, Claudia Nou. All rights reserved.
-                </p>
-
+                    <li><p class="icons"><a href="https://www.youtube.com/watch?v=wB4mNOxW-Lo"><i class="fa fa-youtube fa-2x"></i></a></p></li>
+                </ul>
+                <br>
+                <p class="copyright">Website &#169 2015 Justin Farrugia, Luke Galea, Claudia Nou. All rights reserved.</p>
+            </footer>
         </div>
+     
     </form>
 </body>
 </html>
