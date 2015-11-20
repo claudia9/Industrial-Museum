@@ -67,6 +67,8 @@ p {
     margin: 0 5%;
 }
 
+
+
 /* ===================
     Theme
    =================== */
@@ -166,6 +168,11 @@ footer {
     font-size: 0.7em;
     bottom: 0px;
 
+}
+
+.copyright  {
+    font-size: 0.5em;
+    color: #5d5d5d;
 }
 
 img {
@@ -281,13 +288,50 @@ font-family: 'Montserrat', sans-serif;
     font-size: .7em;
     text-transform: uppercase;
     font-weight: 400;
+    top: 50px;
 }
 
+.icons
+{
+    float: left;
+    padding-right: 15px;
+    font-size: 2em;
+    color: #605ca8 ;
+}
 
+.icons.time 
+{
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.icons.location
+{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.icons.price
+{
+    padding-bottom: 130px;  
+    padding-top: 10px; 
+}
+
+dl {
+    width: 40px;
+    display: inline;
+    font-size: 2em;
+    float: left;
+    margin: -5px;
+    color: #605ca8;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
 
 /* ==========================================================================
    Media Queries
    ========================================================================== */
+
 
 @media only screen and (min-width: 480px) {
 
@@ -372,7 +416,7 @@ font-family: 'Montserrat', sans-serif;
 
     .main aside {
         float: right;
-        width: 28%;
+        width: 38%;
     }
 }
 
