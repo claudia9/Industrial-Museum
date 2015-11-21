@@ -16,7 +16,9 @@
 
                     <img src="img/8181466361_738cec81f2_o.jpg" width="400" height="100"/>
 
-                    <p>There are a lot of machines from the 1800s and 1900s. The machines hosted at the museum, illustrate the development of the steam engine, the gas and petrol engines and the diesel engines. The machines shown at the museum, used to power the city of Horsens.</p>                     &nbsp;                    <p>Visitors have the opportunity to listen to the four -cylinder Deutz, which was left in Denmark. Many visitors will also remember the FF engine. One can imagine how the total industrial revolution made lives easier for citizens.</p>
+                    <p>There are a lot of machines from the 1800s and 1900s. The machines hosted at the museum, illustrate the development of the steam engine, the gas and petrol engines and the diesel engines. The machines shown at the museum, used to power the city of Horsens.</p>
+                     &nbsp;
+                    <p>Visitors have the opportunity to listen to the four -cylinder Deutz, which was left in Denmark. Many visitors will also remember the FF engine. One can imagine how the total industrial revolution made lives easier for citizens.</p>
                      &nbsp;
                     <p>See various steam engine models at the Science Museum in London</p>
                     <p><span>www.sciencemuseum.org.uk</span></p>
@@ -36,7 +38,13 @@
                         &nbsp;
                         <p>Here’s a list of some of the exhibitions that take place:</p>
                        
-                       <ul>> Remembering Horsens</ul>                       <ul>> School in the 1900s</ul>                       <ul>> Christmas Exhibitions</ul>                       <ul>> Model Steam Club</ul>                       <ul>> Thanksgiving Exhibitions</ul>                       <ul>> Art Bubble Cartoon Festival</ul>                       <ul>> Science Festival</ul>  
+                       <ul>> Remembering Horsens</ul>
+                       <ul>> School in the 1900s</ul>
+                       <ul>> Christmas Exhibitions</ul>
+                       <ul>> Model Steam Club</ul>
+                       <ul>> Thanksgiving Exhibitions</ul>
+                       <ul>> Art Bubble Cartoon Festival</ul>
+                       <ul>> Science Festival</ul>  
                        <img src="img/8181488620_95b35cfce8_k.jpg" width="400" height="100"/>                      
                          
                     </section>
