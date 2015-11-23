@@ -44,7 +44,7 @@
                        <ul>> Model Steam Club</ul>
                        <ul>> Thanksgiving Exhibitions</ul>
                        <ul>> Art Bubble Cartoon Festival</ul>
-                       <ul>> Science Festival</ul>  
+                       <ul> Science Festival</ul>  
                        <img src="img/8181488620_95b35cfce8_k.jpg" width="400" height="100"/>                      
                          
                     </section>

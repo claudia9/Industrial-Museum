@@ -37,6 +37,7 @@
         <section>
             <h1>Café</h1>
             <h2>HAVE A CUP OF COFFEE</h2>
+            <br>
             <p>The museum also includes the well-known 'Café Gaslight', a venue capable of hosting up to 40 people, who will get to take in a pleasant atmosphere of the café environment while soaking up the knowledge they have gathered within the museum itself.</p>
             <br>
             <div class="asidecontent">
@@ -55,6 +56,7 @@
         <section>
             <h1>Shop</h1>
             <h2>GET A SOUVENIER TO SAVOUR THE MEMORIES</h2>
+            <br />
             <p>The shop has a wide selection of new and old items. A large selection of books concering topic such as development of not just the industry in general but also technology and even about the town where the museum is situated in Horsens.</p>
             <img src="img/shop.jpg" />
 
