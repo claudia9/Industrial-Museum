@@ -14,7 +14,7 @@
                         <h2>Meet the real craftsmen at the workshop</h2>
                         <p>All workshops are staffed on a regular basis, so visitors can get a realistic sense of the old crafts and have a knowledgeable conversation about the old industrial crafts. There are at least two workshops daily that come to life, these consist of the mechanical workshop and the stone printing workshop.</span></p>
 
-                    <img src="img/8181466361_738cec81f2_o.jpg" width="400" height="100"/>
+                        <img src="img/8181458683_754121fa46_o.jpg"  width="400" height="100"/>
 
                     <p>There are a lot of machines from the 1800s and 1900s. The machines hosted at the museum, illustrate the development of the steam engine, the gas and petrol engines and the diesel engines. The machines shown at the museum, used to power the city of Horsens.</p>
                      <br>

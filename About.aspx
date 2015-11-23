@@ -23,7 +23,7 @@
                      <br>
                     <p>The museum also hosts a number of special exhibitions and live demonstrations in the different workshops that are conducted throughout the year. There is also the ‘Danish Money Museum’, established on the basis of the Savings Bank Museum in Klarskovgaard in cooperation with the financial sector.</p>
                      <br>
-                         <img src="img/8181486196_2e095eddfb_o.jpg" width="400" height="100"/>
+                        <img src="img/8181495770_a4c4a69fa1_o.jpg" width="400" height="100"/>
                         <hr>
 
                     <section>
