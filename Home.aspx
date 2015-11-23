@@ -92,7 +92,7 @@ a.style.backgroundImage="",b!=a.getAttribute("src")&&a.setAttribute("src",b)))}}
             <header class="wrapper clearfix">
                 
                 <%--Hi Justin this is the cog code --%> 
-                */
+                
                  <gwd-genericad id="gwd-ad">
     <div is="gwd-pagedeck" class="gwd-page-container" id="pagedeck">
       <div is="gwd-page" id="page1" class="gwd-page-wrapper gwd-page-size gwd-lightbox" data-gwd-width="50px" data-gwd-height="50px">
