@@ -9,9 +9,9 @@
                     <br>
                     <header>
                         <h1>Permanent Exhibitions</h1>
-                        <br>
                     </header>
                     <section>
+                        <br>
                         <h2>Meet the real craftsmen at the workshop</h2>
                         <p>All workshops are staffed on a regular basis, so visitors can get a realistic sense of the old crafts and have a knowledgeable conversation about the old industrial crafts. There are at least two workshops daily that come to life, these consist of the mechanical workshop and the stone printing workshop.</span></p>
 
