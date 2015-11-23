@@ -39,15 +39,17 @@
                         <br>
                         <p>Here’s a list of some of the exhibitions that take place:</p>
                        
-                       <ul> 
+                       <ul>
+
+                      
                            <li>Remembering Horsens</li>     
                            <li> School in the 1900s</li>
                            <li> Christmas Exhibitions </li>
-                        Christmas Exhibitions
-                        Model Steam Club
-                        Thanksgiving Exhibitions
-                        Art Bubble Cartoon Festival
-                       Science Festival 
+                           <li> Model Steam Club </li>
+                           <li> Thanksgiving Exhibitions </li>
+                           <li> Art Bubble Cartoon Festival </li>
+                           <li> Science Festival </li>
+                       </ul>
                        <img src="img/8181488620_95b35cfce8_k.jpg" width="400" height="100"/>                      
                          
                     </section>
