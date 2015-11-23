@@ -8,7 +8,7 @@
         <article>
                     <header>
                         <h1>Research Centre of Industry</h1>
-                        &nbsp;
+                        <br>
                     </header>
                     <section>
                         <h2>RESEARCH THE INDUSTRIAL ERA</h2>

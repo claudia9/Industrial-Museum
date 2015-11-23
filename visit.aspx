@@ -12,18 +12,18 @@
         </header>
         <section>
             <h2>EXPERIENCE THE LATE 1800s</h2>
-            &nbsp;
+            <br>
             <p>The museum organizes tours for groups by appointment. We can put together a tour that gives a taste of our permanent exhibitions and one or more of the current special exhibitions. Or we can create a tour that illustrates a topic that the group is particularly interested in.</p>
-            &nbsp;
+            <br>
             <img src="img/8181466361_738cec81f2_o.jpg" />
 
             <p>The museum has a large photo collection and we can also offer lectures on various aspects of industrialization. To register a group, a deposit is required. Tours during business hours on weekdays cost <b>400kr.</b> And lasts <b>one hour.</b> The tour group should not exceed over <b>25 people.</b></p>
-            &nbsp;
+            <br>
             <p>Lectures costs <b>400kr.</b> And lasts <b>one hour.</b> Guided tours on weekends and holidays cost <b>500 kr.</b> and <b>700 kr.</b> depending on the hours. It is recommended that tours and lectures are arranged in advance, in order to allow the museum to organize the best experience possible, given a time period.</p>
-            &nbsp;
+            <br>
 
             <p>Introduction tours are held on Saturdays & Sundays, and are free of charge. There is no registration required.</p>
-            &nbsp;
+            <br>
 
             <p><b>The following weekends are not free tours</b></p>
             <ul>
@@ -38,7 +38,7 @@
             <h1>Café</h1>
             <h2>HAVE A CUP OF COFFEE</h2>
             <p>The museum also includes the well-known 'Café Gaslight', a venue capable of hosting up to 40 people, who will get to take in a pleasant atmosphere of the café environment while soaking up the knowledge they have gathered within the museum itself.</p>
-            &nbsp;
+            <br>
             <div class="asidecontent">
                 <h4>CAFE GASLIGHT</h4>
                 <p class="aside">OPEN FROM 11 A.M. TO 16 P.M. <br />
