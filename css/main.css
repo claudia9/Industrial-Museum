@@ -6,6 +6,19 @@ html {
     line-height: 1.4;
     background-color: #f9f9f9;
 }
+/*Animation Styling*/
+
+.gwd-page-size {
+    width: 50px;
+    height: 50px;
+    top: -20px;
+}
+
+#page1 {
+        top: 10px;
+    }
+
+/*End of Animation Styling*/
 
 ::-moz-selection {
     background: #b3d4fc;
@@ -89,8 +102,12 @@ p {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     padding-top: 14px;
+    padding-left: 65px;
+    left: 20px;
     letter-spacing: 0.3px;
 }
+
+
 
 /* ==============
     MOBILE: Menu
@@ -187,11 +204,6 @@ listedu {
 }
 
 
-.copyright  {
-    font-size: 0.5em;
-    color: #5d5d5d;
-}
-
 img {
     width: 100%;
     height: auto;
@@ -267,6 +279,10 @@ footer ul li{
 
 }
 
+section ul li{
+    font-family: 'Cardo', serif;
+}
+
 footer ul li a{
     margin: 0 auto; 
     padding: 10px 50px;
@@ -274,15 +290,14 @@ footer ul li a{
     text-decoration: none;
 }
 
-footer ul li a:visited{
-
-}
 
 .copyright {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     letter-spacing: 1px;
     text-transform: uppercase;
+    font-size: 0.9em;
+    color: #5d5d5d;
 
 }
 
@@ -294,6 +309,7 @@ h2, h3 {
     letter-spacing: .8px;
 }
 
+
 h4 {
 font-family: 'Montserrat', sans-serif;
     font-size: .8em;
@@ -302,6 +318,8 @@ font-family: 'Montserrat', sans-serif;
     letter-spacing: .8px;
 
 }
+
+
 
 .aside {
     font-family: 'Montserrat', sans-serif;
@@ -452,6 +470,8 @@ font-family: 'Montserrat', sans-serif;
     top: 20px;
     padding-bottom: 5px;
     background: transparent;
+    font-family: 'Cardo', serif;
+    color: white;
 
 }
 
@@ -474,6 +494,7 @@ font-family: 'Montserrat', sans-serif;
        font-family: 'Cardo', serif;
        color: white;
     }
+
 
     .aside input[type=text]
 

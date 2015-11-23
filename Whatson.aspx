@@ -6,6 +6,7 @@
 
   
   <article>
+                    <br>
                     <header>
                         <h1>Permanent Exhibitions</h1>
                         <br>
@@ -21,7 +22,7 @@
                     <p>Visitors have the opportunity to listen to the four -cylinder Deutz, which was left in Denmark. Many visitors will also remember the FF engine. One can imagine how the total industrial revolution made lives easier for citizens.</p>
                      <br>
                     <p>See various steam engine models at the Science Museum in London</p>
-                    <p><span>www.sciencemuseum.org.uk</span></p>
+                    <p><a href="#"><span>www.sciencemuseum.org.uk</span></a></p>
                     <p>More history here:</p>
                     <p><span>http://www.makingthemodernworld.org.uk/stories/the_age_of_the_engineer/03.ST.02/</span></p>
                     <img src="img/Industri_Museum-2008-11.jpg" width="400" height="100"/>
@@ -38,13 +39,17 @@
                         <br>
                         <p>Here’s a list of some of the exhibitions that take place:</p>
                        
-                       <ul>> Remembering Horsens</ul>
-                       <ul>> School in the 1900s</ul>
-                       <ul>> Christmas Exhibitions</ul>
-                       <ul>> Model Steam Club</ul>
-                       <ul>> Thanksgiving Exhibitions</ul>
-                       <ul>> Art Bubble Cartoon Festival</ul>
-                       <ul> Science Festival</ul>  
+                       <ul>
+
+                      
+                           <li>Remembering Horsens</li>     
+                           <li> School in the 1900s</li>
+                           <li> Christmas Exhibitions </li>
+                           <li> Model Steam Club </li>
+                           <li> Thanksgiving Exhibitions </li>
+                           <li> Art Bubble Cartoon Festival </li>
+                           <li> Science Festival </li>
+                       </ul>
                        <img src="img/8181488620_95b35cfce8_k.jpg" width="400" height="100"/>                      
                          
                     </section>
