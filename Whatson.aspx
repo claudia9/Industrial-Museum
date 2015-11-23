@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
 
-    <div id="container">
+  
   <article>
                     <header>
                         <h1>Permanent Exhibitions</h1>
@@ -51,30 +51,117 @@
                     
                 </article>
 
-                <aside>
-                    <div class="asidecontent">
+         <aside style ="padding-top: 75px; padding-bottom:75px;">
+                <div class="asidecontent">
+                    <dl>
+                        <i class="fa fa-language" style="; padding-bottom: 50px;"></i>
+                    </dl>
+
+                    <dt>
+                        <h4>LANGUAGE</h4>
+                        <p class="aside">This page is currently only served in English & Danish. You can change to Danish  <span>here</span></p>
+                    </dt>
+                    <br>
+                    <hr>
+                    <br>
+
+                </div>
+
+
+
+                <div class="asidecontent">
+                    <dl>
+                        <i class="fa fa-clock-o" style="; padding-bottom: 20px;"></i>
+                    </dl>
+
+                    <dt>
                         <h4>Opening Hours</h4>
                         <p class="aside">Everyday from 11:00 a.m. - 16:00 p.m. <br>
                         In july & august from 10:00 a.m.</p>
-                    </div>
+                    </dt>
 
-                    <div class="asidecontent">
-                        <h4>Where to Find Us</h4>
+                </div>
+                
+
+                <div class="asidecontent">
+                    <dl>
+                        <i class="fa fa-map-marker" ></i>
+                    </dl>
+
+                    <dt>
+                         <h4>Where to Find Us</h4>
                         <p class="aside">Gasvej 17-19 8700 Horsens</p>
-                    </div>
+                    </dt>
 
-                    <div class="asidecontent">
-                        <h4>Price</h4>
+                </div>
+
+
+
+                <div class="asidecontent">
+                    <dl>
+                        <i class="fa fa-phone" ></i>
+
+                    </dl>
+
+                    <dt>
+                         <h4>Get in touch</h4>
+                        <p class="aside">Tel +45 7562 0788 </p>
+                    </dt>
+
+                </div>
+
+
+                
+                <div class="asidecontent">
+                    <dl>
+                        <i class="fa fa-envelope-o" ></i>
+
+                    </dl>
+
+                    <dt>
+                         <h4 style="padding-top:5px;">Send us an email</h4>
+                        <a class ="aside" href="mailto:booking@industrimuseet.dk">booking@industrimuseet.dk</a> 
+                    </dt>
+
+                </div>
+
+
+                <div class="asidecontent">
+
+                    <dl>
+                        <i class="fa fa-credit-card" style="text-align:center; padding-bottom:120px; ;"></i>
+                    </dl>
+
+                    <dt>
+                         <h4>Price</h4>
                         <p class="aside">Visitors aged 17 years or under <span><strong>free</strong></span> admission <br>
                         Adults between 18 and 65 <br> <span><strong>kr 60</strong></span> <br> adults over 65 <br> <span><strong>kr 40</strong></span></p>
-                    </div>
-                    &nbsp;
-                    <button class="btn" onclick="location.href = 'www.yoursite.com';" id="myButton" class="float-left submit-button" >Book Now</button>
+                    </dt>
 
+                     <br>
+                    <hr>
+                    <br>
+
+                </div>
+
+                <div class="asidecontent conversion" style="padding-left: 0px;">
+                    
+
+                    <dt>
+                       <h4>PICK A DATE</h4> 
+                            <input class ="aside" type="text" name="fname" placeholder="MM/DD/YYYY">
+                       <h4>NUMBER OF PEOPLE</h4>
+                            <input class ="aside" type="number" name="someid" placeholder="1">
+                       <h4>YOUR TOTAL COMES TO:</h4>
+                            <input class ="aside" type="number" name="someid" placeholder="0.00 DKK">
+                            <br>
+                    <button class="btn" onclick="location.href = 'www.yoursite.com';" id="myButton" class="float-left submit-button" style="margin-top: 30px">BOOK NOW</button>
+
+                    </dt>
+                </div>            
 
                 </aside>
-
-    </div>
+   
 
 
     </asp:Content>
