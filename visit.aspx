@@ -7,6 +7,7 @@
   
     <article>
 
+        <br>
         <header>
             <h1>Visit</h1>
         </header>
@@ -30,6 +31,7 @@
                 <li>Weekends in July and August</li>
                 <li>12 & 13 December due to the Christmas weekend</li>
             </ul>
+            <br>
         </section>
 
         <hr />
@@ -41,12 +43,23 @@
             <p>The museum also includes the well-known 'Café Gaslight', a venue capable of hosting up to 40 people, who will get to take in a pleasant atmosphere of the café environment while soaking up the knowledge they have gathered within the museum itself.</p>
             <br>
             <div class="asidecontent">
-                <h4>CAFE GASLIGHT</h4>
-                <p class="aside">OPEN FROM 11 A.M. TO 16 P.M. <br />
-                SERVING ENDS AT 15.30 P.M.</p>
+            
+
+                    <dl>
+                        <i class="fa fa-coffee" style="padding-bottom: 30px; color: #605ca8;"></i>
+                    </dl>
+
+                    <dt>
+                        <h4>CAFE GASLIGHT</h4>
+                        <p class="aside">OPEN FROM 11 A.M. TO 16 P.M. <br />
+                        SERVING ENDS AT 15.30 P.M.</p>
+                    </dt>
+                 <br>
+
+
             </div>
 
-            <p>You can also find the menu <span>here.</span></p>
+            <p>You can also find the menu <span><a href="http://www.industrimuseet.dk/app/doc/materiale_47024172.pdf">here</a></span></p>
             <img src="img/cafegaslight.jpg" />
 
         </section>
@@ -60,7 +73,7 @@
             <p>The shop has a wide selection of new and old items. A large selection of books concering topic such as development of not just the industry in general but also technology and even about the town where the museum is situated in Horsens.</p>
             <img src="img/shop.jpg" />
 
-            <p>The museum shop can be visited without actual admission to the exhibits. It is open daily between the 11 a.m. and 16 p.m.<br />
+            <p>The museum shop can be visited without actual admission to the exhibits. It is open daily between the 11 a.m. and 16 p.m.
                 Should you have any queries, call the shop manager Girse Classen on <span>7562 0788</span> for any questions.</p>
 
             <p><b>CVR: 55 66 62 10</b></p>
