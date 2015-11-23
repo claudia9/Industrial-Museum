@@ -51,7 +51,7 @@
 
                     <dt>
                         <h4>CAFE GASLIGHT</h4>
-                        <p class="aside">OPEN FROM 11 A.M. TO 16 P.M. <br />
+                        <p class="aside">OPEN FROM 11 A.M. TO 16 P.M. <br>
                         SERVING ENDS AT 15.30 P.M.</p>
                     </dt>
                  <br>
@@ -69,7 +69,7 @@
         <section>
             <h1>Shop</h1>
             <h2>GET A SOUVENIER TO SAVOUR THE MEMORIES</h2>
-            <br />
+            <br>
             <p>The shop has a wide selection of new and old items. A large selection of books concering topic such as development of not just the industry in general but also technology and even about the town where the museum is situated in Horsens.</p>
             <img src="img/shop.jpg" />
 
@@ -87,7 +87,7 @@
          <aside style ="padding-top: 75px; padding-bottom:75px;">
                 <div class="asidecontent">
                     <dl>
-                        <i class="fa fa-language" style="; padding-bottom: 50px;"></i>
+                        <i class="fa fa-language" style="padding-bottom: 50px;"></i>
                     </dl>
 
                     <dt>
@@ -104,7 +104,7 @@
 
                 <div class="asidecontent">
                     <dl>
-                        <i class="fa fa-clock-o" style="; padding-bottom: 20px;"></i>
+                        <i class="fa fa-clock-o" style="padding-bottom: 20px;"></i>
                     </dl>
 
                     <dt>
