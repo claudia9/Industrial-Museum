@@ -39,6 +39,10 @@ fieldset {
     padding: 0;
 }
 
+span {
+    
+}
+
 textarea {
     resize: vertical;
 }
@@ -246,7 +250,9 @@ footer ul{
 
 hr {
     background-color: #605ca8;
-    height: 3px
+    height: 3px;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
 }
 
 a:hover {
